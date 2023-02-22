@@ -1,0 +1,9 @@
+source tree를 사용하는 이유는 gui형식으로 하기 위해서
+
+github 저장소 생성 --> Git Hub 홈페이지
+github 저장소 클론 --> Source Tree사용
+Commit 커밋하기 (save)
+Add(스테이지에 올리기)
+push 하기
+
+git이란 : 버전 관리 시스템
